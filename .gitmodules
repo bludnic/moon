@@ -1,0 +1,3 @@
+[submodule "moon-submodule"]
+	path = moon-submodule
+	url = git@github.com:bludnic/moon-submodule.git
