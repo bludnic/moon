@@ -1,0 +1,3 @@
+# Inherit tasks from the `vite` and `vitest` presets
+# https://github.com/moonrepo/moon-configs
+tags: ["vite", "vitest"]
